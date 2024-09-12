@@ -31,7 +31,7 @@ O projeto está organizado da seguinte forma:
 ### Consumo da API
 O projeto utiliza a API do Mercado Livre para obter informações sobre os produtos. As requisições são realizadas para os endpoints `/sites/MLA/search` e `/items/{item_id}`.
 
-### nálise Exploratória
+### Análise Exploratória
 * **Análise Exploratória:** Realizar uma análise mais profunda dos dados utilizando o notebook Jupyter.
 * **Visualizações:** Criar gráficos e visualizações para melhor entender os resultados.
 * **Expansão:** Adicionar novas funcionalidades, como análise de preços, comparação de vendedores, etc.
